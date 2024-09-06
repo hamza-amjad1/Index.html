@@ -1,0 +1,98 @@
+body
+{
+    margin: 10px;
+    background-color: #191919;
+    font-family: Arial;
+}
+
+.title
+{
+    color: #ffffff;
+    font-size: 30px;
+    margin: 30px 0px;
+}
+
+.rockbtn
+{
+    font-size: 13.33px;
+    margin: 0px 10px 0px 0px;
+    padding: 1px 6px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid #f0f0f0;
+    background-color: #191919;
+    cursor: pointer;
+}
+img
+{
+    height: 50px;
+    width: 50px;
+}
+.paperbtn
+{
+    font-size: 13.33px;
+    margin: 0px 10px 0px 0px;
+    padding: 1px 6px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid #f0f0f0;
+    background-color: #191919;
+    cursor: pointer;
+}
+
+.scissorsbtn
+{
+    font-size: 13.33px;
+    margin: 0px 10px 0px 0px;
+    padding: 1px 6px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid #f0f0f0;
+    background-color: #191919;
+    cursor: pointer;
+}
+.score-board
+{
+    font-size: 16px;
+    color: #ffffff;
+    margin: 60px 0px 16px;
+}
+.result
+{
+    font-size: 25px;
+    margin: 50px 0px 25px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reset-score-btn
+{
+    font-size: 15px;
+    background-color: #ffffff;
+    padding: 8px 15px;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+}
+
+.auto-play-btn
+{
+    font-size: 15px;
+    background-color: #ffffff;
+    padding: 8px 15px;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+}
+.stop-play-btn
+{
+    background-color: rgba(255, 0, 0, 0.563);
+    color: #ffffff;
+    cursor: pointer;
+    border: none;
+    padding: 8px 15px;
+    font-size: 16px;
+}
